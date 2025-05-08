@@ -1,0 +1,14 @@
+header {
+    background-color: #e9dcc9;
+    padding: 1rem 0;
+}
+header h1 {
+    font-size: 1.8rem;
+    margin: 0;
+    color: #444444;
+}
+header h2 {
+    font-family: 'yesteryear', serif;
+    font-weight: lighter;
+    margin-top: 0px;
+}
