@@ -19,16 +19,19 @@
 .sour-gummy {
     font-family: "Sour Gummy", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <300>;
+    font-weight: <400>;
     font-style: normal;
     font-variation-settings: "wdth" 100;
+
+  }
+section p{    
     color: #444444;
     font-size: 1.5rem;
-    
-  }
+    }
 header {
     background-color: #e9dcc9;
     padding: 1rem 0;
+    height: 90px;
 }
 header h1 {
     font-size: 1.8rem;
@@ -39,7 +42,23 @@ header h2 {
     font-family: 'yesteryear', serif;
     font-weight: lighter;
     margin-top: 0px;
+    margin-bottom: 0px;
 }
+header a{
+    text-decoration: none;
+    color: inherit;
+    align-items: center;
+    
+  }
+  
+body {
+    margin: 0px;
+}
+#logo {
+    max-width: 200px;
+    margin-bottom: 1rem;
+  
+  }
 nav ul {
     list-style: none;
     display: flex;
@@ -54,7 +73,6 @@ nav a {
 }
 
 .hero {
-    background: url('https://source.unsplash.com/featured/?montessori,nursery') no-repeat center/cover;
     color: white;
     text-align: center;
     padding: 5rem 1rem;
