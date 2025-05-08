@@ -12,3 +12,16 @@ header h2 {
     font-weight: lighter;
     margin-top: 0px;
 }
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    padding: 0;
+    justify-content: flex-end;
+}
+nav a {
+    text-decoration: none;
+    font-family: 'Quicksand', sans-serif;
+    color: #444444;
+}
+footer {}
