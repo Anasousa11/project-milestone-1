@@ -24,6 +24,9 @@ nav a {
     font-family: 'Quicksand', sans-serif;
     color: #444444;
 }
+main {
+    background-color: #e4c18a;
+}
 footer {
     background-color: #444444;
     text-align: center;
