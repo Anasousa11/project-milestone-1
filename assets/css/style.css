@@ -145,7 +145,7 @@ main {
     color: #444444;
   }
 footer {
-    background-color: #444444;
+    background-color: #faf8f2;
     text-align: center;
     font-size: 0.9rem;
     padding: 1rem;
@@ -154,7 +154,7 @@ footer {
 .card {
     border: 0cap;
     border-radius: 0rem;
-    background-color: #444444 !important;
+    background-color: #44444402 !important;
     box-shadow: 0;
     width: 100%;
     margin-bottom: 1rem;
@@ -170,7 +170,7 @@ footer {
 }
 .card-text {
     margin-bottom: 1.25rem;
-    color: white;
+    color: #444444;
 }
 .btn-2 {
     display: inline-block;
@@ -191,9 +191,16 @@ footer {
     border-color: #d77f0b;
   }
 .list-group {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 .list-group-item {
-  background-color: #444444 !important;
+  background-color: #44444400 !important;
   border-color: #444444 !important;
+  
+}
+.icon-link {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
