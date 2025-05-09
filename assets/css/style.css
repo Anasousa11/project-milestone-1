@@ -1,8 +1,13 @@
 .zeyada-regular {
     font-family: "Zeyada", cursive;
-    font-weight: 400;
+    font-weight: 100;
     font-style: normal;
   }
+.custom-ds {
+    font-size: 1.4rem;
+    color: #d9a5a5;
+    padding-left: 40px;
+}
   
 .lora {
     font-family: "Lora", serif;
@@ -115,22 +120,24 @@ main {
 .section.alt {
     background-color: #e9dcc9;
   }
+.green-btn {
+  background-color: #b6c1a3; /* sage green */
+  color: #444444 ;
+  padding: 0.75rem 1.5rem ;
+  text-decoration: none;
+  border-radius: 8px ;
+  margin: 0.5rem;
+}
 .btn {
-    background-color: #b6c1a3; /* sage green */
-    color: #444444;
-    padding: 0.75rem 1.5rem;
-    text-decoration: none;
-    border-radius: 8px;
-    margin: 0.5rem;
-    display: inline-block;
-    font-family: 'Quicksand', sans-serif;
-    transition: background 0.3s ease;
+  display: inline-block ;
+  font-family: 'Quicksand', sans-serif;
+  transition: background 0.3s ease;
   }
   .btn.primary {
     background-color: #d9a5a5; /* soft rose */
     color: white;
   }
-  .btn:hover {
+  .green-btn:hover {
     background-color: #e4c18a;
   }
   .btn.primary:hover {
@@ -146,9 +153,9 @@ footer {
 }
 .card {
     border: 0cap;
-    border-radius: 0.25rem;
-    background-color: #e9dcc9;
-    box-shadow: 0 0.125rem 0.25 rem rgba(0,0,0,0.075);
+    border-radius: 0rem;
+    background-color: #444444 !important;
+    box-shadow: 0;
     width: 100%;
     margin-bottom: 1rem;
     text-align: center;
@@ -163,7 +170,7 @@ footer {
 }
 .card-text {
     margin-bottom: 1.25rem;
-    color: #6c757d;
+    color: white;
 }
 .btn-2 {
     display: inline-block;
@@ -183,3 +190,10 @@ footer {
     background-color: #d77f0b;
     border-color: #d77f0b;
   }
+.list-group {
+  margin-bottom: 10px;
+  background-color: #444444;
+  color: #444444 ;
+  --bs-list-group-bg: var(--bs-body-bg);
+  border-color: #444444; ;
+}
