@@ -192,8 +192,8 @@ footer {
   }
 .list-group {
   margin-bottom: 10px;
-  background-color: #444444;
-  color: #444444 ;
-  --bs-list-group-bg: var(--bs-body-bg);
-  border-color: #444444; ;
+}
+.list-group-item {
+  background-color: #444444 !important;
+  border-color: #444444 !important;
 }
