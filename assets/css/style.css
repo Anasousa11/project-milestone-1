@@ -101,9 +101,13 @@ main {
 }
 .circle-image {
   width: 250px;
-  height: 220px;
+  height: 250px;
   border-radius: 50%;
   object-fit: cover;
+}
+.card {
+  box-shadow: none !important;
+  border: none !important;
 }
 
 .hero h2 {
