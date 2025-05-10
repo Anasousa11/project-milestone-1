@@ -58,6 +58,10 @@ header a{
 main {
   margin-top:33px ;
 }
+.container-fluid .row {
+  margin: 0;
+}
+
 body {
     margin: 0px;
 }
@@ -93,8 +97,15 @@ nav a {
       
   }
 main {
-    background-color: #bac7a49e    ;
+    background-color: #faf8f2     ;
 }
+.circle-image {
+  width: 250px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 .hero h2 {
     font-size: 2.5rem;
   }
