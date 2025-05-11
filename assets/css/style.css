@@ -100,13 +100,13 @@ nav a {
 main {
     background-color: whitesmoke     ;
 }
-.about-heading {
-  font-family: 'Playfair Display';  
-  padding-top: 30px; 
-  padding-bottom: 30px;
-  display: flex;
-  justify-content: center;
+hr {
+  border: none;
+  height: 2px;
+  background-color: #e4c18a;
+  margin: 40px 0;
 }
+
 .circle-image {
   width: 250px;
   height: 250px;
@@ -117,7 +117,17 @@ main {
   box-shadow: none !important;
   border: none !important;
 }
+.card-text-t {
+  font-family: 'Sour Gummy', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #444;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
 
+}
 .hero h2 {
     font-size: 2.5rem;
   }
