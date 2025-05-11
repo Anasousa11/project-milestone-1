@@ -102,10 +102,18 @@ main {
 }
 hr {
   border: none;
-  height: 2px;
+  height: 5px;
   background-color: #e4c18a;
-  margin: 40px 0;
+
 }
+.flex-center {
+  display: flex;
+  justify-content: center;   /* Horizontal center */
+  align-items: center;       /* Vertical center */
+  height: 300px;             /* Set height so there's space to center */
+  text-align: center;
+}
+
 
 .circle-image {
   width: 250px;
@@ -121,13 +129,13 @@ hr {
   font-family: 'Sour Gummy', sans-serif;
   font-size: 16px;
   font-weight: 300;
-  color: #444;
+  color: #faf8f2 !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
 
-}
+
 .hero h2 {
     font-size: 2.5rem;
   }
