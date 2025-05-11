@@ -193,7 +193,13 @@ hr {
     padding: 3rem 1rem;
     background-color: #faf8f2;
   }
-
+#photos img {
+  width: 100%;
+  line-height: 1em;
+}
+#photos {
+  line-height: 0;
+}
 
 .green-btn {
   background-color: #b6c1a3; /* sage green */
@@ -278,4 +284,25 @@ footer {
   margin-bottom: 5px;
   margin-left: 5px;
   margin-right: 5px;
+}
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
+/* Media query: large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 4;
+        column-gap: 0;
+    }
 }
