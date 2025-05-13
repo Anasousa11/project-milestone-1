@@ -1,3 +1,8 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 .zeyada-regular {
     font-family: "Zeyada", cursive;
     font-weight: 100;
@@ -396,6 +401,24 @@ footer {
       align-content: center;
       background-position: center;
       position: relative;
+    }
+    /* Form */
+ 
+
+    .text-input:hover {
+        border-color: #d9a5a5;
+    }
+    .number:hover {
+      border-color: #d9a5a5;
+    }
+    .email:hover {
+      border-color: #d9a5a5;
+    }
+    
+
+    .join-button:hover {
+        background-color: #fafafa;
+        color: #454b1b;
     }
 }
 /* Large devices (laptops and desktops, 992px and up) */
