@@ -63,6 +63,11 @@ header a{
 .container-fluid .row {
   margin: 0;
 }
+.main-contact {
+  margin-top: 30px;
+  flex: 1 0 auto;
+  
+}
 
 body {
     margin: 0px;
