@@ -66,7 +66,79 @@ header a{
 .main-contact {
   margin-top: 30px;
   flex: 1 0 auto;
-  
+  display: flex;
+ 
+}
+#contact-us {
+  background-image: url(../images/contact.png);
+  max-width: 500px;
+  width: 90%;
+  background-size: cover;
+  background-position: 75%;
+  padding: 20px 10% 0 10%;
+  flex-grow: 1;
+}
+#contact-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
+}
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+.number {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+.email {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+.form-label {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    padding: 0 5px;
+}
+#exampleFormControlTextarea1 {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #b6c1a3;
+    color: #fafafa;
 }
 
 body {
@@ -310,12 +382,20 @@ footer {
         column-count: 2;
         column-gap: 0;
     }
+    #
 }
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
    /* Gallery */
     #photos {
         column-count: 3;
+    }
+    #contact-us {
+      min-width: 1300px;
+      flex-direction: column;
+      align-content: center;
+      background-position: center;
+      position: relative;
     }
 }
 /* Large devices (laptops and desktops, 992px and up) */
