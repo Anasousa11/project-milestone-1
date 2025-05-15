@@ -53,7 +53,7 @@ Pebble Path Montessori Nursery Website
 
  
 
-Planning 
+<strong>Planning</strong>
 
 I began by identifying the purpose of the website: to inform parents that there are different teaching methods such as the Montessori method, how that looks like and the benefits. 
 
