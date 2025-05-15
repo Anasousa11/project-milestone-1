@@ -110,7 +110,7 @@ I chose these readable fonts to create a modern but playful, child-friendly look
 ##  Deployment
 
  **Live Website:**  
-[Click here to view](https://anasousa11.github.io/project-milestone-1/index.html)
+[Pebble Path Montessori Nursery Website](https://anasousa11.github.io/project-milestone-1/index.html)
 
 ### To run locally:
 
