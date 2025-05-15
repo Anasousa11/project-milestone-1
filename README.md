@@ -63,9 +63,9 @@
 
 <h3>Planning</h3>
 
-I began by identifying the purpose of the website: <strong> To inform parents that there are different teaching methods such as the Montessori method, how that looks like and the benefits. </strong>
+I began by identifying the purpose of the website: <strong> - To inform parents that there are different teaching methods such as the Montessori method, how that looks like and the benefits. </strong>
 
-<strong>I sketched wireframes for the homepage, about page, and contact page using Balsamiq.
+<strong>- I sketched wireframes for the homepage, about page, and contact page using Balsamiq.
 <br>
 
 <img width="374" alt="home-ss" src="https://github.com/user-attachments/assets/b1018e3e-514b-48e4-bec6-ae323d4bc487" /><br>
@@ -75,13 +75,13 @@ I began by identifying the purpose of the website: <strong> To inform parents th
 <img width="351" alt="contact-b-ss" src="https://github.com/user-attachments/assets/42d91348-3156-4fd3-86b7-aa37ae404607" />
 
 
-Decided on a calm and welcoming colour palette suitable for a nursery: 
+- Decided on a calm and welcoming colour palette suitable for a nursery: 
 
 
 <br><img width="436" alt="color-ss" src="https://github.com/user-attachments/assets/10ae5b7d-62bb-4d37-8f77-c0af19fd3ec2" />
 
 
-Chose clean, legible fonts to appear friendly and modern (Playfair Display, Laora, Quicksand, Zeyada, sour gummy, yesteryear) and a simple sans-serif font for body text to ensure readability.  </strong>
+- Chose clean, legible fonts to appear friendly and modern (Playfair Display, Laora, Quicksand, Zeyada, sour gummy, yesteryear) and a simple sans-serif font for body text to ensure readability.  </strong>
  
 
  
@@ -136,15 +136,15 @@ Open the index.html file in your web browser:
 
 Testing included: 
 
- Responsiveness across desktop, tablet, and mobile. 
+- Responsiveness across desktop, tablet, and mobile. 
 
 ![responsive](https://github.com/user-attachments/assets/b72d2261-79de-4e0f-b2ee-20e1cb15dbf5)
 
- Functionality of links and navigation. 
+- Functionality of links and navigation. 
 
- Accessibility tested using  manual tab navigation. 
+- Accessibility tested using  manual tab navigation. 
 
- Validators: HTML passed W3C, CSS passed Jigsaw. 
+- Validators: HTML passed W3C, CSS passed Jigsaw. 
 
 ![css-validator](https://github.com/user-attachments/assets/51531719-92dd-4706-b2a6-cfe5295b4d66)
 ![html-validator](https://github.com/user-attachments/assets/8b705866-6291-4be5-bc13-21651a4d583d)
