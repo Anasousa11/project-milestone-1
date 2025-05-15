@@ -113,56 +113,46 @@ I chose clean, readable fonts to create a modern but playful, child-friendly loo
 1. Clone the repo:
    ```bash
    git clone https://github.com/anasousa11/project-milestone-1.git
-````
+```
+## Testing
+The following testing steps were taken:
 
-2. Open the `index.html` file in your browser.
+✅ Responsiveness
+Tested on mobile, tablet, and desktop.
+<img src="https://github.com/user-attachments/assets/b72d2261-79de-4e0f-b2ee-20e1cb15dbf5" width="300"/>
 
+✅ Navigation & Links
+All nav and internal links tested across pages.
 
+✅ Accessibility
+Tested with tab navigation and colour contrast. Alt text added to all images.
 
-<h3>Testing </h3>
+✅ Validation
+HTML passed W3C Validator, CSS passed Jigsaw.
 
-Testing included: 
-
-- Responsiveness across desktop, tablet, and mobile. 
-
-![responsive](https://github.com/user-attachments/assets/b72d2261-79de-4e0f-b2ee-20e1cb15dbf5)
-
-- Functionality of links and navigation. 
-
-- Accessibility tested using  manual tab navigation. 
-
-- Validators: HTML passed W3C, CSS passed Jigsaw. 
-
-![css-validator](https://github.com/user-attachments/assets/51531719-92dd-4706-b2a6-cfe5295b4d66)
-![html-validator](https://github.com/user-attachments/assets/8b705866-6291-4be5-bc13-21651a4d583d)
-
-
-
-<h3> Folder Structure</h3> 
+<img width="200" alt="html-validator" src="https://github.com/user-attachments/assets/8b705866-6291-4be5-bc13-21651a4d583d" /> <img width="200" alt="css-validator" src="https://github.com/user-attachments/assets/51531719-92dd-4706-b2a6-cfe5295b4d66" />
 
 <img width="183" alt="directory" src="https://github.com/user-attachments/assets/fe20c4a4-df10-41b7-afe7-105c4a8ec8ac" />
+🙌 External Code & Attribution
+Fonts: Google Fonts (Zeyada, Yesteryear, Sour Gummy, Lora)
 
- 
+Navigation: Responsive Navbar adapted from W3Schools
 
+CSS Reset: Meyer Reset
 
- 
- <h3> External Code & Attribution</h3>   
- 
- 
+Bootstrap: For cards, nav, form elements
 
-- Fonts: Zeyada, Yesteryear, Sour Gummy, Lora: Imported from Google Fonts 
+Icons: Font Awesome – social icons
 
-- Navigation menu: W3Schools Responsive Navbar 
+🛠 Development Process
+Planning: Defined purpose, target audience, and user goals. Created wireframes and chose colours and fonts.
 
-- CSS Reset: Meyer Reset  
+Design: Built a layout using HTML5/CSS3 focused on clarity and responsiveness.
 
-- Navbar, Card, List Groups, Form Control and Buttons:  Bootstrap 
+Testing: Validated code, checked for responsiveness and accessibility.
 
-- Icons :Font Awesome: Used for social media icons(https://fontawesome.com/) 
+Deployment: Uploaded via GitHub Pages for live access and further testing.
 
- 
-
- 
- 
- <h3> Author</h3>   
-<strong>Ana Dicha De Sousa – Web Application Development Diploma Level 5   </strong>
+👩‍💻 Author
+Ana Dicha De Sousa
+Web Application Development – Level 5 Diploma
