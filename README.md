@@ -1,11 +1,11 @@
 ﻿# project-milestone-1
 <h1>Pebble Path Montessori Nursery Website </h1>
 
-📌 <h3>Purpose </h3>
+ <h3>Purpose </h3>
 
  The purpose of this website is to provide information regarding Pebble Path Montessori Nursery to parents and guardians. It includes an explanation of the Montessori teaching method/philosophy, images that captures the daily routine, testimonies from parents sharing the benefits of the nursery, and a contact page where you can apply or book a visit to see first-hand the facilities and staff. I designed this website with a very simple easy-to-navigate layout from the perspective of a parent who has looked for nurseries and visited different kinds from Montessori to a traditional nursery. 
 
-💡 <h3>Value to Users </h3>
+ <h3>Value to Users </h3>
 
 - Allows users to quickly find nursery information without needing to call or visit in person. 
 
@@ -13,7 +13,7 @@
 
 - Fully responsive, so it works on phones, tablets, and desktops.  
 
-🎯 <h3>Target Audience</h3> 
+ <h3>Target Audience</h3> 
 
 - Parents of children aged 0–5 looking for a Montessori nursery. 
 
@@ -21,7 +21,7 @@
 
 - Expecting/local parents
 
-🧭 <h3>Features </h3>
+ <h3>Features </h3>
 
 - Navigation with menu items. 
 
@@ -31,7 +31,7 @@
 
  
 
-🖼️ <h3>Screenshots Aligned to User Stories</h3> 
+ <h3>Screenshots Aligned to User Stories</h3> 
 
 <strong>1. As a parent, I want to understand the nursery’s values.</strong> 
 
@@ -66,20 +66,19 @@
 I began by identifying the purpose of the website: <strong> To inform parents that there are different teaching methods such as the Montessori method, how that looks like and the benefits. </strong>
 
 <strong>I sketched wireframes for the homepage, about page, and contact page using Balsamiq.
+<br>
 
-
-<img width="374" alt="home-ss" src="https://github.com/user-attachments/assets/b1018e3e-514b-48e4-bec6-ae323d4bc487" />
-<img width="369" alt="about-b-ss" src="https://github.com/user-attachments/assets/d7f123e7-5264-45aa-acda-64ec5feca00e" />
-<img width="358" alt="testimony-b-ss" src="https://github.com/user-attachments/assets/5d2bfab3-6652-4022-81dc-aac52c95f5e2" />
-<img width="364" alt="gallery-b-ss" src="https://github.com/user-attachments/assets/47416b6c-629f-4c73-bd14-5fb39d84f71d" />
+<img width="374" alt="home-ss" src="https://github.com/user-attachments/assets/b1018e3e-514b-48e4-bec6-ae323d4bc487" /><br>
+<img width="369" alt="about-b-ss" src="https://github.com/user-attachments/assets/d7f123e7-5264-45aa-acda-64ec5feca00e" /><br>
+<img width="358" alt="testimony-b-ss" src="https://github.com/user-attachments/assets/5d2bfab3-6652-4022-81dc-aac52c95f5e2" /><br>
+<img width="364" alt="gallery-b-ss" src="https://github.com/user-attachments/assets/47416b6c-629f-4c73-bd14-5fb39d84f71d" /><br>
 <img width="351" alt="contact-b-ss" src="https://github.com/user-attachments/assets/42d91348-3156-4fd3-86b7-aa37ae404607" />
 
 
 Decided on a calm and welcoming colour palette suitable for a nursery: 
 
 
-
-<img width="436" alt="color-ss" src="https://github.com/user-attachments/assets/10ae5b7d-62bb-4d37-8f77-c0af19fd3ec2" />
+<br><img width="436" alt="color-ss" src="https://github.com/user-attachments/assets/10ae5b7d-62bb-4d37-8f77-c0af19fd3ec2" />
 
 
 Chose clean, legible fonts to appear friendly and modern (Playfair Display, Laora, Quicksand, Zeyada, sour gummy, yesteryear) and a simple sans-serif font for body text to ensure readability.  </strong>
@@ -87,7 +86,7 @@ Chose clean, legible fonts to appear friendly and modern (Playfair Display, Laor
 
  
 
-🛠️<h3> Technologies Used </h3>
+<h3> Technologies Used </h3>
 
 - HTML5   
 
@@ -101,11 +100,11 @@ Chose clean, legible fonts to appear friendly and modern (Playfair Display, Laor
 
  
 
-🚀<h3> Deployment </h3>
+<h3> Deployment </h3>
 
-You can view the live website here: 
+<Strong>You can view the live website here: </strong>
 
-👉 https://anasousa11.github.io/project-milestone-1/index.html 
+  https://anasousa11.github.io/project-milestone-1/index.html 
 
 To run the project locally: 
 
@@ -117,7 +116,7 @@ To run the project locally:
 
  
 
-Navigate to the project folder: 
+<strong>Navigate to the project folder: </strong>
 
    cd project-milestone-1  
 
@@ -133,26 +132,26 @@ Open the index.html file in your web browser:
 
  
 
-🧪 <h3>Testing </h3>
+ <h3>Testing </h3>
 
 Testing included: 
 
-✔️ Responsiveness across desktop, tablet, and mobile. 
+ Responsiveness across desktop, tablet, and mobile. 
 
 ![responsive](https://github.com/user-attachments/assets/b72d2261-79de-4e0f-b2ee-20e1cb15dbf5)
 
-✔️ Functionality of links and navigation. 
+ Functionality of links and navigation. 
 
-✔️ Accessibility tested using  manual tab navigation. 
+ Accessibility tested using  manual tab navigation. 
 
-✔️ Validators: HTML passed W3C, CSS passed Jigsaw. 
+ Validators: HTML passed W3C, CSS passed Jigsaw. 
 
 ![css-validator](https://github.com/user-attachments/assets/51531719-92dd-4706-b2a6-cfe5295b4d66)
 ![html-validator](https://github.com/user-attachments/assets/8b705866-6291-4be5-bc13-21651a4d583d)
 
 
 
-📁<h3> Folder Structure</h3> 
+<h3> Folder Structure</h3> 
 
 <img width="183" alt="directory" src="https://github.com/user-attachments/assets/fe20c4a4-df10-41b7-afe7-105c4a8ec8ac" />
 
@@ -160,7 +159,7 @@ Testing included:
 
 
  
- 📌<h3> External Code & Attribution</h3>   
+ <h3> External Code & Attribution</h3>   
  
  
 
@@ -178,7 +177,7 @@ Testing included:
 
  
  
- ✍️<h3> Author</h3>   
+ <h3> Author</h3>   
 <strong>Ana Dicha De Sousa – Web Application Development Diploma Level 5   </strong>
  
 
