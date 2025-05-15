@@ -1,11 +1,11 @@
 ﻿# project-milestone-1
-Pebble Path Montessori Nursery Website 
+<h1>Pebble Path Montessori Nursery Website </h1>
 
-📌 Purpose 
+📌 <h3>Purpose </h3>
 
  The purpose of this website is to provide information regarding Pebble Path Montessori Nursery to parents and guardians. It includes an explanation of the Montessori teaching method/philosophy, images that captures the daily routine, testimonies from parents sharing the benefits of the nursery, and a contact page where you can apply or book a visit to see first-hand the facilities and staff. I designed this website with a very simple easy-to-navigate layout from the perspective of a parent who has looked for nurseries and visited different kinds from Montessori to a traditional nursery. 
 
-💡 Value to Users 
+💡 <h3>Value to Users </h3>
 
 - Allows users to quickly find nursery information without needing to call or visit in person. 
 
@@ -13,7 +13,7 @@ Pebble Path Montessori Nursery Website
 
 - Fully responsive, so it works on phones, tablets, and desktops.  
 
-🎯 Target Audience 
+🎯 <h3>Target Audience</h3> 
 
 - Parents of children aged 0–5 looking for a Montessori nursery. 
 
@@ -21,7 +21,7 @@ Pebble Path Montessori Nursery Website
 
 - Expecting/local parents
 
-🧭 Features 
+🧭 <h3>Features </h3
 
 - Navigation with menu items. 
 
@@ -31,31 +31,31 @@ Pebble Path Montessori Nursery Website
 
  
 
-🖼️ Screenshots Aligned to User Stories 
+🖼️ <h3>Screenshots Aligned to User Stories</h3> 
 
-1. As a parent, I want to understand the nursery’s values. 
+<strong>1. As a parent, I want to understand the nursery’s values.</strong> 
 <img width="454" alt="about-ss" src="https://github.com/user-attachments/assets/b90261ff-1102-480d-9b23-de9162f09d93" />
 
  
 
-2. As a new visitor, I want to browse pictures of the environment. 
+<strong>2. As a new visitor, I want to browse pictures of the environment. </strong>
 <img width="295" alt="gallery-ss" src="https://github.com/user-attachments/assets/0a29f2f3-b679-454e-b337-bc715ef615d9" />
 
  
 
-3. As a parent, I want an easy way to contact the nursery. 
+<strong>3. As a parent, I want an easy way to contact the nursery. </strong>
 <img width="451" alt="contact-info" src="https://github.com/user-attachments/assets/b183c4b4-aea6-48d7-8593-8c0c67cf51f1" />
 
  
 
-4. As a parent, I want to be able to trust the nursery  
+<strong>4. As a parent, I want to be able to trust the nursery</strong>  
 <img width="414" alt="testimony-ss" src="https://github.com/user-attachments/assets/4d43a7bd-5fca-4cd2-aeee-808ec96ff767" />
 
  
 
-<strong>Planning</strong>
+<h3>Planning</h3>
 
-I began by identifying the purpose of the website: to inform parents that there are different teaching methods such as the Montessori method, how that looks like and the benefits. 
+I began by identifying the purpose of the website: <strong> To inform parents that there are different teaching methods such as the Montessori method, how that looks like and the benefits. </strong>
 
 I sketched wireframes for the homepage, about page, and contact page using Balsamiq. 
 
@@ -76,21 +76,21 @@ Chose clean, legible fonts to appear friendly and modern (Playfair Display, Laor
 
  
 
-🛠️ Technologies Used 
+🛠️<h3> Technologies Used </h3>
 
-HTML5   
+- HTML5   
 
-CSS3 (with media queries for responsiveness)  
+- CSS3 (with media queries for responsiveness)  
 
-Git and GitHub for version control  
+- Git and GitHub for version control  
 
-GitHub Pages for deployment 
+- GitHub Pages for deployment 
 
-Prettier for formatting code 
+- Prettier for formatting code 
 
  
 
-🚀 Deployment 
+🚀<h3> Deployment </h3>
 
 You can view the live website here: 
 
@@ -122,7 +122,7 @@ Open the index.html file in your web browser:
 
  
 
-🧪 Testing 
+🧪 <h3>Testing </h3>
 
 Testing included: 
 
@@ -139,32 +139,36 @@ Testing included:
 ![css-validator](https://github.com/user-attachments/assets/51531719-92dd-4706-b2a6-cfe5295b4d66)
 ![html-validator](https://github.com/user-attachments/assets/8b705866-6291-4be5-bc13-21651a4d583d)
 
-📁 Folder Structure 
+
+
+📁<h3> Folder Structure</h3> 
 
 <img width="183" alt="directory" src="https://github.com/user-attachments/assets/fe20c4a4-df10-41b7-afe7-105c4a8ec8ac" />
 
  
- 
- 📌 External Code & Attribution   
- 
- 
 
- Fonts: Zeyada, Yesteryear, Sour Gummy, Lora: Imported from Google Fonts 
-
-Navigation menu: W3Schools Responsive Navbar 
-
-CSS Reset: Meyer Reset  
-
-Navbar, Card, List Groups, Form Control and Buttons:  Bootstrap 
-
-Icons :Font Awesome: Used for social media icons(https://fontawesome.com/) 
 
  
+ 📌<h3> External Code & Attribution</h3>   
+ 
+ 
+
+- Fonts: Zeyada, Yesteryear, Sour Gummy, Lora: Imported from Google Fonts 
+
+- Navigation menu: W3Schools Responsive Navbar 
+
+- CSS Reset: Meyer Reset  
+
+- Navbar, Card, List Groups, Form Control and Buttons:  Bootstrap 
+
+- Icons :Font Awesome: Used for social media icons(https://fontawesome.com/) 
+
+ 
 
  
  
- ✍️ Author   
-Ana Dicha De Sousa – Web Application Development Diploma Level 5   
+ ✍️<h3> Author</h3>   
+<strong>Ana Dicha De Sousa – Web Application Development Diploma Level 5   </strong>
  
 
  
