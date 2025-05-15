@@ -119,10 +119,10 @@ I chose clean, readable fonts to create a modern but playful, child-friendly loo
 
    ```bash
    cd project-milestone-1
-   ```
+```'
 3. Open the `index.html` file in your browser.
 
----
+
 
 ## Testing
 
