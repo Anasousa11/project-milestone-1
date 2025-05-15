@@ -64,9 +64,9 @@
 <h3>Planning</h3>
 
 I began by identifying the purpose of the website: <strong>
-- To inform parents that there are different teaching methods such as the Montessori method, how that looks like and the benefits. </strong>
+- To inform parents that there are different teaching methods such as the Montessori method, how that looks like and the benefits. 
 
-<strong>
+
 - I sketched wireframes for the homepage, about page, and contact page using Balsamiq.
 <br>
 
