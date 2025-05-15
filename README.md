@@ -113,27 +113,30 @@ I chose clean, readable fonts to create a modern but playful, child-friendly loo
 1. Clone the repo:
    ```bash
    git clone https://github.com/anasousa11/project-milestone-1.git
-```
+
 ## Testing
 The following testing steps were taken:
 
-✅ Responsiveness
+1. Responsiveness
 Tested on mobile, tablet, and desktop.
 <img src="https://github.com/user-attachments/assets/b72d2261-79de-4e0f-b2ee-20e1cb15dbf5" width="300"/>
 
-✅ Navigation & Links
+2. Navigation & Links
 All nav and internal links tested across pages.
 
-✅ Accessibility
-Tested with tab navigation and colour contrast. Alt text added to all images.
+3. Accessibility
+Tested with tab navigation. Alt text added to all images.
 
-✅ Validation
+4. Validation
 HTML passed W3C Validator, CSS passed Jigsaw.
 
 <img width="200" alt="html-validator" src="https://github.com/user-attachments/assets/8b705866-6291-4be5-bc13-21651a4d583d" /> <img width="200" alt="css-validator" src="https://github.com/user-attachments/assets/51531719-92dd-4706-b2a6-cfe5295b4d66" />
 
 <img width="183" alt="directory" src="https://github.com/user-attachments/assets/fe20c4a4-df10-41b7-afe7-105c4a8ec8ac" />
-🙌 External Code & Attribution
+
+---
+
+## External Code & Attribution
 Fonts: Google Fonts (Zeyada, Yesteryear, Sour Gummy, Lora)
 
 Navigation: Responsive Navbar adapted from W3Schools
@@ -144,15 +147,7 @@ Bootstrap: For cards, nav, form elements
 
 Icons: Font Awesome – social icons
 
-🛠 Development Process
-Planning: Defined purpose, target audience, and user goals. Created wireframes and chose colours and fonts.
 
-Design: Built a layout using HTML5/CSS3 focused on clarity and responsiveness.
-
-Testing: Validated code, checked for responsiveness and accessibility.
-
-Deployment: Uploaded via GitHub Pages for live access and further testing.
-
-👩‍💻 Author
-Ana Dicha De Sousa
+## Author
+### Ana Dicha De Sousa
 Web Application Development – Level 5 Diploma
