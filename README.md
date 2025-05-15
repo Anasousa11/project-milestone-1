@@ -115,65 +115,54 @@ I chose clean, readable fonts to create a modern but playful, child-friendly loo
    git clone https://github.com/anasousa11/project-milestone-1.git
 ````
 
-2. Navigate to the project folder:
-
-   ```bash
-   cd project-milestone-1
-```'
-3. Open the `index.html` file in your browser.
+2. Open the `index.html` file in your browser.
 
 
 
-## Testing
+<h3>Testing </h3>
 
-The following testing steps were taken:
+Testing included: 
 
- **Responsiveness**
-  Tested on mobile, tablet, and desktop. <img src="https://github.com/user-attachments/assets/b72d2261-79de-4e0f-b2ee-20e1cb15dbf5" width="300"/>
+- Responsiveness across desktop, tablet, and mobile. 
 
- **Navigation & Links**
-  All nav and internal links tested across pages.
+![responsive](https://github.com/user-attachments/assets/b72d2261-79de-4e0f-b2ee-20e1cb15dbf5)
 
- **Accessibility**
-  Tested with tab navigation and colour contrast. Alt text added to all images.
+- Functionality of links and navigation. 
 
-**Validation**
-  HTML passed [W3C Validator](https://validator.w3.org/), CSS passed [Jigsaw](https://jigsaw.w3.org/css-validator/).
+- Accessibility tested using  manual tab navigation. 
 
-<img width="200" alt="html-validator" src="https://github.com/user-attachments/assets/8b705866-6291-4be5-bc13-21651a4d583d" />
-<img width="200" alt="css-validator" src="https://github.com/user-attachments/assets/51531719-92dd-4706-b2a6-cfe5295b4d66" />
+- Validators: HTML passed W3C, CSS passed Jigsaw. 
 
----
-
-## Folder Structure
+![css-validator](https://github.com/user-attachments/assets/51531719-92dd-4706-b2a6-cfe5295b4d66)
+![html-validator](https://github.com/user-attachments/assets/8b705866-6291-4be5-bc13-21651a4d583d)
 
 
+
+<h3> Folder Structure</h3> 
 
 <img width="183" alt="directory" src="https://github.com/user-attachments/assets/fe20c4a4-df10-41b7-afe7-105c4a8ec8ac" />
 
----
+ 
 
-## External Code & Attribution
 
-* **Fonts:** Google Fonts (Zeyada, Yesteryear, Sour Gummy, Lora)
-* **Navigation:** Responsive Navbar adapted from [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
-* **CSS Reset:** [Meyer Reset](https://meyerweb.com/eric/tools/css/reset/)
-* **Bootstrap:** For cards, nav, form elements
-* **Icons:** [Font Awesome](https://fontawesome.com/) 
+ 
+ <h3> External Code & Attribution</h3>   
+ 
+ 
 
----
+- Fonts: Zeyada, Yesteryear, Sour Gummy, Lora: Imported from Google Fonts 
 
-## Development Process
+- Navigation menu: W3Schools Responsive Navbar 
 
-* **Planning:** Defined purpose, target audience, and user goals. Created wireframes and chose colours and fonts.
-* **Design:** Built a layout using HTML5/CSS3 focused on clarity and responsiveness.
-* **Testing:** Validated code, checked for responsiveness and accessibility.
-* **Deployment:** Uploaded via GitHub Pages for live access and further testing.
+- CSS Reset: Meyer Reset  
 
----
+- Navbar, Card, List Groups, Form Control and Buttons:  Bootstrap 
 
-## Author
+- Icons :Font Awesome: Used for social media icons(https://fontawesome.com/) 
 
-**Ana Dicha De Sousa**
-Web Application Development – Level 5 Diploma
+ 
 
+ 
+ 
+ <h3> Author</h3>   
+<strong>Ana Dicha De Sousa – Web Application Development Diploma Level 5   </strong>
