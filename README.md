@@ -32,16 +32,8 @@ I began by defining the website's purpose: to inform parents exploring nursery e
 
 I created wireframes using Balsamiq for key pages:
 
-- Homepage  
-  <img width="374" alt="home-ss" src="https://github.com/user-attachments/assets/b1018e3e-514b-48e4-bec6-ae323d4bc487" />
-- About Page  
-  <img width="369" alt="about-b-ss" src="https://github.com/user-attachments/assets/d7f123e7-5264-45aa-acda-64ec5feca00e" />
-- Testimonials Page  
-  <img width="358" alt="testimony-b-ss" src="https://github.com/user-attachments/assets/5d2bfab3-6652-4022-81dc-aac52c95f5e2" />
-- Gallery Page  
-  <img width="364" alt="gallery-b-ss" src="https://github.com/user-attachments/assets/47416b6c-629f-4c73-bd14-5fb39d84f71d" />
-- Contact Page  
-  <img width="351" alt="contact-b-ss" src="https://github.com/user-attachments/assets/42d91348-3156-4fd3-86b7-aa37ae404607" />
+<img width="203" alt="wireframes" src="https://github.com/user-attachments/assets/3e102547-2157-4824-9b09-05ac1ff995cb" />
+
 
 ### Colour Palette
 
