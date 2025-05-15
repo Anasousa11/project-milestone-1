@@ -32,7 +32,7 @@ I began by defining the website's purpose: to inform parents exploring nursery e
 
 I created wireframes using Balsamiq for key pages:
 
-<img width="203" alt="wireframes" src="https://github.com/user-attachments/assets/3e102547-2157-4824-9b09-05ac1ff995cb" />
+<img width="400" alt="wireframes" src="https://github.com/user-attachments/assets/3e102547-2157-4824-9b09-05ac1ff995cb" />
 
 
 ### Colour Palette
