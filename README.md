@@ -63,9 +63,11 @@
 
 <h3>Planning</h3>
 
-I began by identifying the purpose of the website: <strong> - To inform parents that there are different teaching methods such as the Montessori method, how that looks like and the benefits. </strong>
+I began by identifying the purpose of the website: <strong>
+- To inform parents that there are different teaching methods such as the Montessori method, how that looks like and the benefits. </strong>
 
-<strong>- I sketched wireframes for the homepage, about page, and contact page using Balsamiq.
+<strong>
+- I sketched wireframes for the homepage, about page, and contact page using Balsamiq.
 <br>
 
 <img width="374" alt="home-ss" src="https://github.com/user-attachments/assets/b1018e3e-514b-48e4-bec6-ae323d4bc487" /><br>
@@ -74,13 +76,13 @@ I began by identifying the purpose of the website: <strong> - To inform parents 
 <img width="364" alt="gallery-b-ss" src="https://github.com/user-attachments/assets/47416b6c-629f-4c73-bd14-5fb39d84f71d" /><br>
 <img width="351" alt="contact-b-ss" src="https://github.com/user-attachments/assets/42d91348-3156-4fd3-86b7-aa37ae404607" />
 
-
+<br>
 - Decided on a calm and welcoming colour palette suitable for a nursery: 
 
 
 <br><img width="436" alt="color-ss" src="https://github.com/user-attachments/assets/10ae5b7d-62bb-4d37-8f77-c0af19fd3ec2" />
 
-
+<br>
 - Chose clean, legible fonts to appear friendly and modern (Playfair Display, Laora, Quicksand, Zeyada, sour gummy, yesteryear) and a simple sans-serif font for body text to ensure readability.  </strong>
  
 
