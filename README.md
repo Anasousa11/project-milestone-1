@@ -137,16 +137,27 @@ HTML passed W3C Validator, CSS passed Jigsaw.
 <img width="200" alt="html-validator" src="https://github.com/user-attachments/assets/8b705866-6291-4be5-bc13-21651a4d583d" /> <img width="200" alt="css-validator" src="https://github.com/user-attachments/assets/51531719-92dd-4706-b2a6-cfe5295b4d66" />
 
 
-## External Code 
+## External Code & Attribution
 Fonts: Google Fonts (Zeyada, Yesteryear, Sour Gummy, Lora)
 
 Navigation: Responsive Navbar adapted from W3Schools
 
+Hero, circle images, social media icons and '!important': adapted by W3Schools
+
 CSS Reset: Meyer Reset
 
-Bootstrap: For cards, nav, form elements
+Bootstrap: For cards(for footer and testimony, nav, form elements(contact), rows(for 'about us'), buttons
 
 Icons: Font Awesome – social icons
+
+Favicon generator for the favicon: https://favicon.io/
+
+Metadata, gallery: code institute/ the love running project
+
+Google maps location: https://www.geeksforgeeks.org/how-to-add-map-in-html/
+
+
+
 
 
 ## Author
