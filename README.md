@@ -1,186 +1,179 @@
-﻿# project-milestone-1
-<h1>Pebble Path Montessori Nursery Website </h1>
+# Pebble Path Montessori Nursery Website
 
- <h3>Purpose </h3>
+---
 
- The purpose of this website is to provide information regarding Pebble Path Montessori Nursery to parents and guardians. It includes an explanation of the Montessori teaching method/philosophy, images that captures the daily routine, testimonies from parents sharing the benefits of the nursery, and a contact page where you can apply or book a visit to see first-hand the facilities and staff. I designed this website with a very simple easy-to-navigate layout from the perspective of a parent who has looked for nurseries and visited different kinds from Montessori to a traditional nursery. 
+##  Purpose
 
- <h3>Value to Users </h3>
+The purpose of this website is to provide information regarding Pebble Path Montessori Nursery to parents and guardians. It includes an explanation of the Montessori teaching method/philosophy, images that captures the daily routine, testimonies from parents sharing the benefits of the nursery, and a contact page where you can apply or book a visit to see first-hand the facilities and staff. I designed this website with a very simple easy-to-navigate layout from the perspective of a parent who has looked for nurseries and visited different kinds from Montessori to a traditional nursery. 
 
-- Allows users to quickly find nursery information without needing to call or visit in person. 
+---
 
-- Allows users to also get straight to booking a visit if you rather get a feel for the nursery instead of relying on online information and pictures. 
+##  Value to Users
 
-- Fully responsive, so it works on phones, tablets, and desktops.  
+- Provides essential nursery information without requiring a phone call or visit.
+- Allows users to easily book a visit online.
+- Fully responsive — works across phones, tablets, and desktops.
 
- <h3>Target Audience</h3> 
+---
 
-- Parents of children aged 0–5 looking for a Montessori nursery. 
+##  Target Audience
 
-- Existing parents wanting updates or contact info.
+- Parents of children aged 0–5 seeking Montessori education.
+- Existing parents looking for updates or contact info.
+- Local and expecting parents looking for nursery options.
 
-- Expecting/local parents
+---
 
- <h3>Features </h3>
+##  Features
 
-- Navigation with menu items. 
+- Clear navigation.
+- Responsive layout using CSS Grid and media queries.
+- Visual storytelling through images and parent testimonies.
+- Easy access to contact form and booking links.
 
-- Responsive design using CSS Grid and media queries. 
 
-- Accessible layout with good contrast, alt text, and readable fonts. 
+---
 
- 
+##  Screenshots Aligned to User Stories
 
- <h3>Screenshots Aligned to User Stories</h3> 
-
-<strong>1. As a parent, I want to understand the nursery’s values.</strong> 
-
+**1. As a parent, I want to understand the nursery’s values.**
 
 <img width="454" alt="about-ss" src="https://github.com/user-attachments/assets/b90261ff-1102-480d-9b23-de9162f09d93" />
 
- 
-
-<strong>2. As a new visitor, I want to browse pictures of the environment. </strong>
-
+**2. As a new visitor, I want to browse pictures of the environment.**
 
 <img width="295" alt="gallery-ss" src="https://github.com/user-attachments/assets/0a29f2f3-b679-454e-b337-bc715ef615d9" />
 
- 
-
-<strong>3. As a parent, I want an easy way to contact the nursery. </strong>
-
+**3. As a parent, I want an easy way to contact the nursery.**
 
 <img width="451" alt="contact-info" src="https://github.com/user-attachments/assets/b183c4b4-aea6-48d7-8593-8c0c67cf51f1" />
 
- 
-
-<strong>4. As a parent, I want to be able to trust the nursery</strong>  
-
+**4. As a parent, I want to be able to trust the nursery.**
 
 <img width="414" alt="testimony-ss" src="https://github.com/user-attachments/assets/4d43a7bd-5fca-4cd2-aeee-808ec96ff767" />
 
- 
+---
 
-<h3>Planning</h3>
+## Planning
 
-I began by identifying the purpose of the website: <strong>
-- To inform parents that there are different teaching methods such as the Montessori method, how that looks like and the benefits. 
+I began by defining the website's purpose: to inform parents exploring nursery education the Montessori approach.
+
+### Wireframes
+
+I created wireframes using Balsamiq for key pages:
+
+- Homepage  
+  <img width="374" alt="home-ss" src="https://github.com/user-attachments/assets/b1018e3e-514b-48e4-bec6-ae323d4bc487" />
+- About Page  
+  <img width="369" alt="about-b-ss" src="https://github.com/user-attachments/assets/d7f123e7-5264-45aa-acda-64ec5feca00e" />
+- Testimonials Page  
+  <img width="358" alt="testimony-b-ss" src="https://github.com/user-attachments/assets/5d2bfab3-6652-4022-81dc-aac52c95f5e2" />
+- Gallery Page  
+  <img width="364" alt="gallery-b-ss" src="https://github.com/user-attachments/assets/47416b6c-629f-4c73-bd14-5fb39d84f71d" />
+- Contact Page  
+  <img width="351" alt="contact-b-ss" src="https://github.com/user-attachments/assets/42d91348-3156-4fd3-86b7-aa37ae404607" />
+
+### Colour Palette
+
+A calm and soft palette was selected to reflect the feel of the Montessori method.  
+<img width="436" alt="color-ss" src="https://github.com/user-attachments/assets/10ae5b7d-62bb-4d37-8f77-c0af19fd3ec2" />
+
+### Typography
+
+I chose clean, readable fonts to create a modern but playful, child-friendly look:
+
+- Playfair Display
+- Lora
+- Quicksand
+- Zeyada
+- Sour Gummy
+- Yesteryear
+
+---
+
+##  Technologies Used
+
+- HTML5  
+- CSS3 with Media Queries  
+- Bootstrap (navbar, cards, layout)  
+- Font Awesome   
+- Meyer CSS Reset  
+- Git & GitHub  
+- Prettier (code formatting)
+
+---
+
+##  Deployment
+
+ **Live Website:**  
+[Click here to view](https://anasousa11.github.io/project-milestone-1/index.html)
+
+### To run locally:
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/anasousa11/project-milestone-1.git
+````
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd project-milestone-1
+   ```
+3. Open the `index.html` file in your browser.
+
+---
+
+## Testing
+
+The following testing steps were taken:
+
+ **Responsiveness**
+  Tested on mobile, tablet, and desktop. <img src="https://github.com/user-attachments/assets/b72d2261-79de-4e0f-b2ee-20e1cb15dbf5" width="300"/>
+
+ **Navigation & Links**
+  All nav and internal links tested across pages.
+
+ **Accessibility**
+  Tested with tab navigation and colour contrast. Alt text added to all images.
+
+**Validation**
+  HTML passed [W3C Validator](https://validator.w3.org/), CSS passed [Jigsaw](https://jigsaw.w3.org/css-validator/).
+
+<img width="200" alt="html-validator" src="https://github.com/user-attachments/assets/8b705866-6291-4be5-bc13-21651a4d583d" />
+<img width="200" alt="css-validator" src="https://github.com/user-attachments/assets/51531719-92dd-4706-b2a6-cfe5295b4d66" />
+
+---
+
+## Folder Structure
 
 
-- I sketched wireframes for the homepage, about page, and contact page using Balsamiq.
-<br>
-
-<img width="374" alt="home-ss" src="https://github.com/user-attachments/assets/b1018e3e-514b-48e4-bec6-ae323d4bc487" /><br>
-<img width="369" alt="about-b-ss" src="https://github.com/user-attachments/assets/d7f123e7-5264-45aa-acda-64ec5feca00e" /><br>
-<img width="358" alt="testimony-b-ss" src="https://github.com/user-attachments/assets/5d2bfab3-6652-4022-81dc-aac52c95f5e2" /><br>
-<img width="364" alt="gallery-b-ss" src="https://github.com/user-attachments/assets/47416b6c-629f-4c73-bd14-5fb39d84f71d" /><br>
-<img width="351" alt="contact-b-ss" src="https://github.com/user-attachments/assets/42d91348-3156-4fd3-86b7-aa37ae404607" />
-
-<br>
-- Decided on a calm and welcoming colour palette suitable for a nursery: 
-
-
-<br><img width="436" alt="color-ss" src="https://github.com/user-attachments/assets/10ae5b7d-62bb-4d37-8f77-c0af19fd3ec2" />
-
-<br>
-- Chose clean, legible fonts to appear friendly and modern (Playfair Display, Laora, Quicksand, Zeyada, sour gummy, yesteryear) and a simple sans-serif font for body text to ensure readability.  </strong>
- 
-
- 
-
-<h3> Technologies Used </h3>
-
-- HTML5   
-
-- CSS3 (with media queries for responsiveness)  
-
-- Git and GitHub for version control  
-
-- GitHub Pages for deployment 
-
-- Prettier for formatting code 
-
- 
-
-<h3> Deployment </h3>
-
-<Strong>You can view the live website here: </strong>
-
-  https://anasousa11.github.io/project-milestone-1/index.html 
-
-To run the project locally: 
-
-  Clone the repository:  
-
-    ```bash  
-
-      git clone https://github.com/anasousa11/project-milestone-1.git  
-
- 
-
-<strong>Navigate to the project folder: </strong>
-
-   cd project-milestone-1  
-
-Open the index.html file in your web browser: 
-
--  You can simply double-click the index.html file, or 
-
--  Run it through a local server 
-
- 
-
- 
-
- 
-
- <h3>Testing </h3>
-
-Testing included: 
-
-- Responsiveness across desktop, tablet, and mobile. 
-
-![responsive](https://github.com/user-attachments/assets/b72d2261-79de-4e0f-b2ee-20e1cb15dbf5)
-
-- Functionality of links and navigation. 
-
-- Accessibility tested using  manual tab navigation. 
-
-- Validators: HTML passed W3C, CSS passed Jigsaw. 
-
-![css-validator](https://github.com/user-attachments/assets/51531719-92dd-4706-b2a6-cfe5295b4d66)
-![html-validator](https://github.com/user-attachments/assets/8b705866-6291-4be5-bc13-21651a4d583d)
-
-
-
-<h3> Folder Structure</h3> 
 
 <img width="183" alt="directory" src="https://github.com/user-attachments/assets/fe20c4a4-df10-41b7-afe7-105c4a8ec8ac" />
 
- 
+---
 
+## External Code & Attribution
 
- 
- <h3> External Code & Attribution</h3>   
- 
- 
+* **Fonts:** Google Fonts (Zeyada, Yesteryear, Sour Gummy, Lora)
+* **Navigation:** Responsive Navbar adapted from [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
+* **CSS Reset:** [Meyer Reset](https://meyerweb.com/eric/tools/css/reset/)
+* **Bootstrap:** For cards, nav, form elements
+* **Icons:** [Font Awesome](https://fontawesome.com/) 
 
-- Fonts: Zeyada, Yesteryear, Sour Gummy, Lora: Imported from Google Fonts 
+---
 
-- Navigation menu: W3Schools Responsive Navbar 
+## Development Process
 
-- CSS Reset: Meyer Reset  
+* **Planning:** Defined purpose, target audience, and user goals. Created wireframes and chose colours and fonts.
+* **Design:** Built a layout using HTML5/CSS3 focused on clarity and responsiveness.
+* **Testing:** Validated code, checked for responsiveness and accessibility.
+* **Deployment:** Uploaded via GitHub Pages for live access and further testing.
 
-- Navbar, Card, List Groups, Form Control and Buttons:  Bootstrap 
+---
 
-- Icons :Font Awesome: Used for social media icons(https://fontawesome.com/) 
+## Author
 
- 
+**Ana Dicha De Sousa**
+Web Application Development – Level 5 Diploma
 
- 
- 
- <h3> Author</h3>   
-<strong>Ana Dicha De Sousa – Web Application Development Diploma Level 5   </strong>
- 
-
- 
